@@ -1,0 +1,29 @@
+{
+  "name": "request-header-ms",
+  "version": "0.0.0",
+  "description": "A microservice that identifies the IP address, language, and operating system of the site visitor",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmemorgan/request-header-ms.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "microservice"
+  ],
+  "author": "Wilfred Morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmemorgan/request-header-ms/issues"
+  },
+  "homepage": "https://github.com/wmemorgan/request-header-ms#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
