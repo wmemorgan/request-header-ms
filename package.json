@@ -1,6 +1,6 @@
 {
   "name": "request-header-ms",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A microservice that identifies the IP address, language, and operating system of the site visitor",
   "scripts": {
     "start": "node server.js"
